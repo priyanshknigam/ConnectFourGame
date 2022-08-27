@@ -1,0 +1,17 @@
+/* Created By: Priyansh Kumar Nigam */
+/* td{
+  width: 80px;
+  height: 80px;
+  border-radius: 600px;
+  border: 5px solid black;
+} */
+.board button{
+  width: 80px;
+  height: 80px;
+  border-radius: 600px;
+  border: 5px solid black;
+  background-color: rgb(128, 128, 128);
+}
+p{
+  margin-top: 32px;
+}
