@@ -1,3 +1,4 @@
+# Connect-Four-Game
 The repository consists of files for creating a Connect Four Game.
 The game is created using HTML, CSS and JavaScript.
 The index.html file consists of the HTML Code of the game,
